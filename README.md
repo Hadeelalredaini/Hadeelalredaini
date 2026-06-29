@@ -1,7 +1,7 @@
 
 Hi, I’m Hadeel 👋
 
-🎓 Artificial Intelligence Student
+👩🏻‍💻Artificial Intelligence Student
 
 📊 Currently exploring Data Analytics and Power BI
 
